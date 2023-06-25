@@ -4,6 +4,7 @@
 - https://oij.edu.pl/
 - http://usaco.org/
 - https://usaco.guide/
+- https://cp-algorithms.com/
 - https://darrenyao.com/usacobook/cpp.pdf
 - https://github.com/pllk/cphb/blob/master/book.pdf
 - https://codeforces.com/catalog
